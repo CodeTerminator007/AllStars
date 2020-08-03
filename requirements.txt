@@ -1,0 +1,2 @@
+# AllStars
+Scraping bot for Allstars site
